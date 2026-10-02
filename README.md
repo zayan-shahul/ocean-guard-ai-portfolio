@@ -155,3 +155,14 @@ Ocean Guard AI — Intelligence Beneath the Waves.
 ⸻
 
 Building a smarter approach to understanding, monitoring, and protecting our oceans.
+## 🎬 Working Prototype Demo
+
+Watch the demonstration of our current working prototype to understand the interface, workflow, and proposed system functionality.
+
+**Prototype Demonstration:** [Watch the Video](YOUR_VIDEO_LINK_HERE)
+
+### Current Status
+
+The prototype demonstrates the current implementation of the project. Further testing, validation, and improvements may be carried out as development progresses.
+working demo link :https://youtube.com/shorts/hcQgQmdrP6Q?si=w0QGkTbd3earZ_Vg
+working website demo video :https://youtube.com/shorts/hcQgQmdrP6Q?si=w0QGkTbd3earZ_Vg
