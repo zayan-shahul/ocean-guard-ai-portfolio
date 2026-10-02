@@ -159,10 +159,8 @@ Building a smarter approach to understanding, monitoring, and protecting our oce
 
 Watch the demonstration of our current working prototype to understand the interface, workflow, and proposed system functionality.
 
-**Prototype Demonstration:** [Watch the Video](YOUR_VIDEO_LINK_HERE)
+**Prototype Demonstration:** [Watch the Video]https://youtube.com/shorts/hcQgQmdrP6Q?si=3f2EJhr6uV7e5nDp
 
 ### Current Status
 
-The prototype demonstrates the current implementation of the project. Further testing, validation, and improvements may be carried out as development progresses.
-working demo link :https://youtube.com/shorts/hcQgQmdrP6Q?si=w0QGkTbd3earZ_Vg
-working website demo video :https://youtube.com/shorts/hcQgQmdrP6Q?si=w0QGkTbd3earZ_Vg
+The prototype demonstrates the current implementation of the project. Further testing, validation, and improvements may be carried out as development progress.
